@@ -1,1 +1,1 @@
-Simple data exploration
+Basic data exploration
