@@ -1,1 +1,1 @@
-Estiamtes the students performance
+Estimates the students performance
